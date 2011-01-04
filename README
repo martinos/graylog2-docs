@@ -1,1 +1,5 @@
-Common Graylog2 docs are there, in wiki: https://github.com/Graylog2/graylog2-docs/wiki
+This repository holds general Graylog2 documentation it the wiki: https://github.com/Graylog2/graylog2-docs/wiki
+
+Every module (like server, web-interface, ...) also has it's own wiki.
+
+Contact the mailing list if you have questions or problems: http://groups.google.com/group/graylog2?hl=en
